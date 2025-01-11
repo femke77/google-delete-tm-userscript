@@ -9,7 +9,7 @@
   
   Recently I received notice that my gmail account, which I've had since the inception of gmail waaaaay back when, was too full and I was going to lose the ability to receive email. I investigated ways to delete. There is a delete all for the inbox, but I didn't want that. I wanted to delete from oldest to newest until 2019. In other words, I wanted all the email received after 2019 to be trashed but I couldn't find a way to do that. I switched the view to "oldest" and just started deleting 100 at a time. Well, that got old really fast. I have thousands and thousands of emails in that account and 100 is the biggest view. 
 
-  As a quick solution I created a Tampermonkey userscript to do the deleting for me. Once you have tampermonkey's chrome extension installed you can enable this script. The goal is to switch to the google api, add OAuth and make this more feature rich for filtering out what you want to save, checking the dates instead of asking for a email count, etc.. But for now, it solves a problem I really needed solved in a really quick way. 
+  As a quick solution I created a Tampermonkey userscript to do the deleting for me. Once you have tampermonkey's chrome extension installed you can enable this script. The goal is to switch to the google api, add OAuth and make this more feature rich for filtering out what you want to save, checking the dates instead of asking for a email count, etc.. But for now, it solves a problem I really needed solved in a really quick way. What else is coding for?
   
   ## Table of Contents 📖
   
