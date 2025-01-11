@@ -30,7 +30,7 @@
   ## Installation 
   
 
- Enable tampermonkey https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en&pli=1. Then add this script to the location you are storing your scripts or copy paste the code to a new script.
+ Enable tampermonkey https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en&pli=1. Then add this script to the location you are storing your scripts or copy paste the code to a new script. In the code, change the email count to what suits you. In the code now it is 60000. 
   
   ## Usage 
   
@@ -49,6 +49,7 @@ ________________________________________________________________________________
 
 ## Known Issues 
 - Script doesn't currently switch to oldest view for you. 
+- Should have a prompt asking user the stop num.
  - You have 10 seconds from the time you go to google.mail.com to switch to "oldest" view or the script won't run and you will have to reload the page and try again. 
  - The settings are running the code a bit slow, but you can adjust those to work with your internet speed.
 
