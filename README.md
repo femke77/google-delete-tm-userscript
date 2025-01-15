@@ -30,12 +30,12 @@
   ## Installation 
   
 
- Enable tampermonkey https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en&pli=1. Then add this script to the location you are storing your scripts or copy paste the code to a new script. In the code, change the email count to what suits you. In the code now it is 60000. 
+ Enable tampermonkey https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en&pli=1. Then add this script to the location you are storing your scripts or copy paste the code to a new script. 
   
   ## Usage 
   
 
-  Enable the script. Login to your gmail account using the chrome browser and navigate to your inbox. Provide an email count at which to stop (you will have to look for the right number yourself). Change the view to "oldest." The script won't work if you don't switch to that view. It will then start deleting up unti the email count of your choosing. Leave the chrome broswer window open. Disable the script when you are done.
+  Enable the script. Login to your gmail account using the chrome browser and navigate to your inbox. Change the view to "oldest" within the allotted 10 seconds. Provide an email count at which to stop (you will have to look for the right number yourself).  It will then start deleting up until the email count of your choosing. Leave the chrome broswer window open. Disable the script when you are done.
 
   ### Deployed Link
   N/A
@@ -49,10 +49,7 @@ ________________________________________________________________________________
 
 ## Known Issues 
 - Script doesn't currently switch to oldest view for you. 
-- Your stop num has to be a 4 digit+ number.
-- Should have a prompt asking user the stop num.
- - You have 10 seconds from the time you go to google.mail.com to switch to "oldest" view or the script won't run and you will have to reload the page and try again. 
- - The settings are running the code a bit slow, but you can adjust those to work with your internet speed.
+
 
 ## How To Contribute 
   
